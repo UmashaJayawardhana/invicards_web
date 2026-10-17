@@ -17,5 +17,29 @@
       "source": "/ThankingCard/Sample1/:path*",
       "destination": "https://wedding-invitation-sample-beta.vercel.app/ThankingCard/Sample1/:path*"
     }
+    {
+      "source": "/images/weddingInvi/:path*",
+      "destination": "https://wedding-invitation-sample-beta.vercel.app/images/weddingInvi/:path*"
+    },
+    {
+      "source": "/images/genderreveal/:path*",
+      "destination": "https://wedding-invitation-sample-beta.vercel.app/images/genderreveal/:path*"
+    },
+    {
+      "source": "/images/weddingthanking/:path*",
+      "destination": "https://wedding-invitation-sample-beta.vercel.app/images/weddingthanking/:path*"
+    },
+    {
+      "source": "/audio/weddingInvi/:path*",
+      "destination": "https://wedding-invitation-sample-beta.vercel.app/audio/weddingInvi/:path*"
+    },
+    {
+      "source": "/videos/weddingthanking/:path*",
+      "destination": "https://wedding-invitation-sample-beta.vercel.app/videos/weddingthanking/:path*"
+    },
+    {
+      "source": "/videos/weddingInvi/:path*",
+      "destination": "https://wedding-invitation-sample-beta.vercel.app/videos/weddingInvi/:path*"
+    }
   ]
 }
