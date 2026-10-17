@@ -1,3 +1,4 @@
+
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "rewrites": [
@@ -16,7 +17,7 @@
     {
       "source": "/ThankingCard/Sample1/:path*",
       "destination": "https://wedding-invitation-sample-beta.vercel.app/ThankingCard/Sample1/:path*"
-    }
+    },
     {
       "source": "/images/weddingInvi/:path*",
       "destination": "https://wedding-invitation-sample-beta.vercel.app/images/weddingInvi/:path*"
