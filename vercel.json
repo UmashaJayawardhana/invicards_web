@@ -1,0 +1,21 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "rewrites": [
+    {
+      "source": "/Wedding/Sample1",
+      "destination": "https://wedding-invitation-sample-beta.vercel.app/Wedding/Sample1"
+    },
+    {
+      "source": "/Wedding/Sample1/:path*",
+      "destination": "https://wedding-invitation-sample-beta.vercel.app/Wedding/Sample1/:path*"
+    },
+    {
+      "source": "/GnederReveal/Sample1/:path*",
+      "destination": "https://wedding-invitation-sample-beta.vercel.app/GnederReveal/Sample1/:path*"
+    },
+    {
+      "source": "/ThankingCard/Sample1/:path*",
+      "destination": "https://wedding-invitation-sample-beta.vercel.app/ThankingCard/Sample1/:path*"
+    }
+  ]
+}
