@@ -1,7 +1,7 @@
 
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
-  "rewrites": [
+  "redirects": [
     {
       "source": "/Wedding/Sample1",
       "destination": "https://wedding-invitation-sample-beta.vercel.app/Wedding/Sample1"
