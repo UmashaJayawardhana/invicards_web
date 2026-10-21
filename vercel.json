@@ -11,12 +11,12 @@
       "destination": "https://wedding-invitation-sample-beta.vercel.app/Wedding/Sample1/:path*"
     },
     {
-      "source": "/Wedding1/Sample1",
-      "destination": "https://wedding-invitation-sample-beta.vercel.app/Wedding1/Sample1"
+      "source": "/Wedding1",
+      "destination": "https://wedding-invitation-sample-beta.vercel.app/Wedding1"
     },
     {
-      "source": "/Wedding1/Sample1/:path*",
-      "destination": "https://wedding-invitation-sample-beta.vercel.app/Wedding1/Sample1/:path*"
+      "source": "/Wedding1/:path*",
+      "destination": "https://wedding-invitation-sample-beta.vercel.app/Wedding1/:path*"
     },
     {
       "source": "/GnederReveal/Sample1",
