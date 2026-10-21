@@ -57,6 +57,18 @@
     {
       "source": "/videos/weddingInvi/:path*",
       "destination": "https://wedding-invitation-sample-beta.vercel.app/videos/weddingInvi/:path*"
+    },
+    {
+      "source": "/images/wedding1/:path*",
+      "destination": "https://wedding-invitation-sample-beta.vercel.app/images/wedding1/:path*"
+    },
+    {
+      "source": "/videos/wedding1/:path*",
+      "destination": "https://wedding-invitation-sample-beta.vercel.app/videos/wedding1/:path*"
+    },
+    {
+      "source": "/audio/wedding1/:path*",
+      "destination": "https://wedding-invitation-sample-beta.vercel.app/audio/wedding1/:path*"
     }
   ]
 }
