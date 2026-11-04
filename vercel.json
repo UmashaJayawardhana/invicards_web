@@ -19,6 +19,14 @@
       "destination": "https://wedding-invitation-sample-beta.vercel.app/Wedding1/:path*"
     },
     {
+      "source": "/wedding2",
+      "destination": "https://wedding-invitation-sample-beta.vercel.app/wedding2"
+    },
+    {
+      "source": "/wedding2/:path*",
+      "destination": "https://wedding-invitation-sample-beta.vercel.app/wedding2/:path*"
+    },
+    {
       "source": "/GnederReveal/Sample1",
       "destination": "https://wedding-invitation-sample-beta.vercel.app/GnederReveal/Sample1"
     },
@@ -69,6 +77,18 @@
     {
       "source": "/audio/wedding1/:path*",
       "destination": "https://wedding-invitation-sample-beta.vercel.app/audio/wedding1/:path*"
+    },
+    {
+      "source": "/images/wedding2/:path*",
+      "destination": "https://wedding-invitation-sample-beta.vercel.app/images/wedding2/:path*"
+    },
+    {
+      "source": "/videos/wedding2/:path*",
+      "destination": "https://wedding-invitation-sample-beta.vercel.app/videos/wedding2/:path*"
+    },
+    {
+      "source": "/audio/wedding2/:path*",
+      "destination": "https://wedding-invitation-sample-beta.vercel.app/audio/wedding2/:path*"
     }
   ]
 }
